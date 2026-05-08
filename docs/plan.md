@@ -10,7 +10,7 @@ This document outlines the step-by-step execution strategy for developing and de
 - **Navigation:** Build the shared `<nav>` component 
 - **Content Injection:** 
     - Add the "hero" section and Specials list to `index.html`.
-    - Add the "Our Story" text and the "Hours" table t0 `about.html`.
+    - Add the "Our Story" text and the "Hours" table to `about.html`.
 - **Semantic Check:** Ensure all content is wrapped in appropriate tage (`<main>`,`<section>`,`<footer>`).
 ## Phase 3 - Visual Design (CSS)
 - **External Link:** Link `style.css` to both HTML files.
